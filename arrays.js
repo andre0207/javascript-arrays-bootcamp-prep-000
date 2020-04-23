@@ -21,4 +21,7 @@ function addElementToEndOfArray(array, element) {
   return array
 }
 
-function 
+function addElementToEndOfArray(array, element) {
+  var endArray = [...array, element];
+  return endArray
+}
