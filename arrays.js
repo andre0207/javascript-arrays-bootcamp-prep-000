@@ -10,4 +10,6 @@ function addElementToBeginningOfArray(array, element) {
   return begArray
 }
 
-function destructively
+function destructivelyAddElementToBeginningOfArray(array, element) {
+  array.unshift
+}
