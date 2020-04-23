@@ -45,3 +45,4 @@ function removeElementFromBeginningOfArray(array) {
  var sliceArray = array.slice(1)
   return sliceArray
 }
+
