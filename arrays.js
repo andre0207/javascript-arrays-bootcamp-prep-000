@@ -7,5 +7,5 @@ function addElementToBeginningOfArray(array, element) {
 
 function addElementToBeginningOfArray(array, element) {
   var begArray = [element, ...array]
-  return array
+  return begArray
 }
