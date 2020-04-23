@@ -46,4 +46,5 @@ function removeElementFromBeginningOfArray(array) {
   return sliceArray
 }
 
-function 
+function destructivelyRemoveElementFromEndOfArray(array)
+}
