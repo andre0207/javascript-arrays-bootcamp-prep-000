@@ -46,3 +46,4 @@ function removeElementFromBeginningOfArray(array) {
   return sliceArray
 }
 
+function 
