@@ -9,3 +9,4 @@ function addElementToBeginningOfArray(array, element) {
   var begArray = [element, ...array]
   return begArray
 }
+
