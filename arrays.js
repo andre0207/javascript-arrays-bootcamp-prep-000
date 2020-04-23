@@ -7,4 +7,5 @@ function addElementToBeginningOfArray(array, element) {
 
 function addElementToBeginningOfArray(array, element) {
   var chocolateBars = [element, ...array]
+  return array
 }
